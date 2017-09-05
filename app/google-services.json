@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "757120649513",
+    "firebase_url": "https://berita-16822.firebaseio.com",
+    "project_id": "berita-16822",
+    "storage_bucket": "berita-16822.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757120649513:android:0b511762787f52d3",
+        "android_client_info": {
+          "package_name": "com.app.koran"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757120649513-r62tv3e5o90nhrbrs3pj38tjannja02p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0nYK9JJhJ_AxzNOTbcfJMfT0W_mPrkQw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
